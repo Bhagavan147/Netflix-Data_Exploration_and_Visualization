@@ -1,4 +1,4 @@
-# Data Exploration and Visualization for Streaming Platform
+# Netflix Data Exploration and Visualization
 
 ![NetflixIntroGIF (2)](https://github.com/yashika-malhotra/Netflix-Data-Exploration-and-Visualization/assets/154385962/2b675d0e-d401-4a8f-a2d0-1974fcae42ca)
 
@@ -21,7 +21,7 @@ listed_in | Genre |
 description | The summary description | 
 
 
-**Netflix Dataset Analysis and Insights**
+**About Netflix**
 
 Netflix is one of the most popular media and video streaming platforms worldwide. With a library of over 10,000 movies and TV shows, it boasted over 222 million subscribers globally as of mid-2021. This dataset provides a comprehensive listing of all the movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, and more.
 
