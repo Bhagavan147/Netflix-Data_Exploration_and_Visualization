@@ -5,7 +5,7 @@
 ## Netflix Data: Cleaning, Analysis and Visualization
 Data Analysis and Visualization on Netflix Data to provide insights and recommendations to improve their userbase.
 
-Column | #Description | 
+Column | Description | 
 --- | --- 
 Show_id | Unique ID for every Movie / Tv Show | 
 Type | Identifier - A Movie or TV Show | 
