@@ -2,9 +2,6 @@
 
 ![NetflixIntroGIF (2)](https://github.com/yashika-malhotra/Netflix-Data-Exploration-and-Visualization/assets/154385962/2b675d0e-d401-4a8f-a2d0-1974fcae42ca)
 
-## Netflix Data: Cleaning, Analysis and Visualization
-Data Analysis and Visualization on Netflix Data to provide insights and recommendations to improve their userbase.
-
 Column | Description | 
 --- | --- 
 Show_id | Unique ID for every Movie / Tv Show | 
