@@ -2,6 +2,13 @@
 
 ![NetflixIntroGIF (2)](https://github.com/yashika-malhotra/Netflix-Data-Exploration-and-Visualization/assets/154385962/2b675d0e-d401-4a8f-a2d0-1974fcae42ca)
 
+**About Netflix**
+
+Netflix is one of the most popular media and video streaming platforms worldwide. With a library of over 10,000 movies and TV shows, it boasted over 222 million subscribers globally as of mid-2021. This dataset provides a comprehensive listing of all the movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, and more.
+
+### Objective  
+The primary goal of analyzing this dataset is to uncover insights that can guide decisions on producing content and expanding the business in various regions. Additionally, the analysis focuses on identifying the top-performing shows and movies to help strategize revenue growth.
+
 Column | Description | 
 --- | --- 
 Show_id | Unique ID for every Movie / Tv Show | 
@@ -16,14 +23,6 @@ Rating | TV Rating of the movie/show |
 Duration | Total Duration - in minutes or number of seasons | 
 listed_in | Genre | 
 description | The summary description | 
-
-
-**About Netflix**
-
-Netflix is one of the most popular media and video streaming platforms worldwide. With a library of over 10,000 movies and TV shows, it boasted over 222 million subscribers globally as of mid-2021. This dataset provides a comprehensive listing of all the movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, and more.
-
-### Objective  
-The primary goal of analyzing this dataset is to uncover insights that can guide decisions on producing content and expanding the business in various regions. Additionally, the analysis focuses on identifying the top-performing shows and movies to help strategize revenue growth.
 
 ---
 
